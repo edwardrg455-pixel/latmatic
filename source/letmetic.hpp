@@ -5,7 +5,7 @@
 
 namespace latmatic {}
 
-namespace latmatic::struct {
+namespace latmatic {
     class Expression; // type not for users
     template<typename Type> class Scalar;
     template<typename Type> class Set;
